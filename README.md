@@ -42,7 +42,7 @@ POGOLM’s intended landmark workflow looks like this:
 
 ```bash
 cd ~/ros2_ws/src
-git clone
+git clone https://github.com/iamdavidson/pogolm_landmark_usage.git
 cd ..
 colcon build --packages-select pgo_api_test
 source install/setup.bash
