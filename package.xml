@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>pgo_api_test</name>
+  <name>pogolm_landmark_usage</name>
   <version>1.0.1</version>
-  <description>Landmark usage workflow using the POGOLM API</description>
+  <description>This repository contains a small ROS 2 package that demonstrates landmark usage with the POGOLM API (`pgo_with_visual::pogolm_api`) by inserting landmarks from RViz “clicked point” inputs and using POGOLM’s neighbor query as a geometric heuristic for user-side data association.</description>
   <maintainer email="dsamuelyan@uos.de">Davit Samuelyan</maintainer>
   <license>Apache-2.0</license>
 

@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.8)
 cmake_policy(SET CMP0144 NEW)
 
-project(pgo_api_test)
+project(pogolm_landmark_usage)
 
 find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
